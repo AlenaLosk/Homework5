@@ -1,0 +1,47 @@
+{
+  "Gameplay" : {
+    "Player" : [ {
+      "_id" : 1,
+      "_name" : "Paul",
+      "_symbol" : "X"
+    }, {
+      "_id" : 2,
+      "_name" : "Barbara",
+      "_symbol" : "O"
+    } ],
+    "Game" : {
+      "Step" : [ {
+        "_num" : 6,
+        "_playerId" : 1,
+        "_text" : 5
+      }, {
+        "_num" : 7,
+        "_playerId" : 2,
+        "_text" : 3
+      }, {
+        "_num" : 8,
+        "_playerId" : 1,
+        "_text" : 8
+      }, {
+        "_num" : 9,
+        "_playerId" : 2,
+        "_text" : 2
+      }, {
+        "_num" : 10,
+        "_playerId" : 1,
+        "_text" : 9
+      }, {
+        "_num" : 11,
+        "_playerId" : 2,
+        "_text" : 1
+      } ]
+    },
+    "GameResult" : {
+      "Player" : {
+        "_id" : 2,
+        "_name" : "Barbara",
+        "_symbol" : "O"
+      }
+    }
+  }
+}
