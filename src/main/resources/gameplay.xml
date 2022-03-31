@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <Gameplay>
-	<Player id="1" name="Paul" symbol="X"></Player>
-	<Player id="2" name="Barbara" symbol="O"></Player>
+	<Player id="1" name="Oleg" symbol="X"></Player>
+	<Player id="2" name="Anna" symbol="O"></Player>
 	<Game>
-		<Step num="6" playerId="1">5</Step>
-		<Step num="7" playerId="2">3</Step>
-		<Step num="8" playerId="1">8</Step>
-		<Step num="9" playerId="2">2</Step>
-		<Step num="10" playerId="1">9</Step>
-		<Step num="11" playerId="2">1</Step>
+		<Step num="1" playerId="1">1</Step>
+		<Step num="2" playerId="2">2</Step>
+		<Step num="3" playerId="1">4</Step>
+		<Step num="4" playerId="2">5</Step>
+		<Step num="5" playerId="1">7</Step>
 	</Game>
-	<GameResult><Player id="2" name="Barbara" symbol="O"></Player></GameResult>
+	<GameResult><Player id="1" name="Oleg" symbol="X"></Player></GameResult>
 </Gameplay>
